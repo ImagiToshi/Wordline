@@ -1,0 +1,7 @@
+ax
+dy
+go
+ID
+me
+my
+ox
