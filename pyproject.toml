@@ -1,6 +1,6 @@
 [project]
 name = "wordline"
-version = "0.1.1"
+version = "0.2"
 description = "Wordle in the command line."
 readme = "README.md"
 requires-python = ">=3.10"
