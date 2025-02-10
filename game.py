@@ -2,8 +2,7 @@ from rich.console import Console
 from rich.text import Text
 from rich.prompt import Prompt
 
-from feedback import get_feedback
-from vocab import get_target_word
+from utils import *
 
 console = Console()
 
